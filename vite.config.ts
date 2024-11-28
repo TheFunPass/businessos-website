@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/project-bolt/",
+  base: "/businessos-website/",
   resolve: {
     alias: {
       "@": resolve(__dirname, "./src"),

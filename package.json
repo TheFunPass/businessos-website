@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://richardlee977.github.io/project-bolt",
+  "homepage": "https://thefunpass.github.io/businessos-website/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
