@@ -9,11 +9,11 @@ import { ThemeToggle } from './ThemeToggle';
 
 export default function Navbar() {
   const navItems = [
-    { label: 'Business Tools', href: '/businessos-website/business' },
-    { label: 'Calculators', href: '/businessos-website/calculator' },
-    { label: 'Guides', href: '/businessos-website/guides' },
-    { label: 'Marketing', href: '/businessos-website/marketing' },
-    { label: 'Content Creation', href: '/businessos-website/content' },
+    { label: 'Business Tools', href: '/restaurantos-website/business' },
+    { label: 'Calculators', href: '/restaurantos-website/calculator' },
+    { label: 'Guides', href: '/restaurantos-website/guides' },
+    { label: 'Marketing', href: '/restaurantos-website/marketing' },
+    { label: 'Content Creation', href: '/restaurantos-website/content' },
   ];
 
   return (
