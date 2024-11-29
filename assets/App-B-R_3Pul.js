@@ -1,0 +1,1 @@
+import{m as r,j as s,H as o,N as e,Y as t}from"./YouTubeSection-BLTumSIQ.js";function i(){const{isDarkMode:a}=r();return s.jsxs(o,{children:[s.jsx("div",{className:`min-h-screen ${a?"bg-gradient-to-br from-background via-background to-slate-900/50":"bg-gradient-to-br from-slate-50 via-slate-50 to-cyan-50/20"}`}),s.jsx(e,{}),s.jsx(t,{})]})}export{i as A};
