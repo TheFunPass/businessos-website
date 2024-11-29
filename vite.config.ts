@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/businessos-website/",
+  base: "/restaurantos-website/",
   resolve: {
     alias: {
       "@": resolve(__dirname, "./src"),
@@ -14,7 +14,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        business: resolve(__dirname, 'business/index.html'),
+        business: resolve(__dirname, './business/index.html'),
       },
     },
   },

@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://thefunpass.github.io/businessos-website/",
+  "homepage": "https://thefunpass.github.io/restaurantos-website",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
