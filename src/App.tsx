@@ -43,7 +43,7 @@ function App() {
                     <div className="flex items-center gap-2 mb-2">
                       <Command className="h-6 w-6 text-primary" />
                       <h1 className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">
-                        Restaurant OS
+                        Home Page
                       </h1>
                     </div>
                     <p className="text-muted-foreground">
@@ -52,7 +52,6 @@ function App() {
                       </span>
                     </p>
                   </div>
-                  
                   <div className="flex gap-3">
                     <Button
                       variant={!showAIAgents ? "default" : "outline"}
