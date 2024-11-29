@@ -15,6 +15,10 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         business: resolve(__dirname, './business/index.html'),
+        calculator: resolve(__dirname, './calculator/index.html'),
+        guides: resolve(__dirname, './guides/index.html'),
+        marketing: resolve(__dirname, './marketing/index.html'),
+        contentcreation: resolve(__dirname, './contentcreation/index.html')
       },
     },
   },
