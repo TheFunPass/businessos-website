@@ -13,7 +13,7 @@ export default function Navbar() {
     { label: 'Calculators', href: '/restaurantos-website/calculator' },
     { label: 'Guides', href: '/restaurantos-website/guides' },
     { label: 'Marketing', href: '/restaurantos-website/marketing' },
-    { label: 'Content Creation', href: '/restaurantos-website/content' },
+    { label: 'Content Creation', href: '/restaurantos-website/contentcreation' },
   ];
 
   return (

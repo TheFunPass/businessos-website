@@ -1,6 +1,6 @@
 import { TaskProvider } from '@/context/TaskContext';
-import Navbar from '../../components/Navbar';
-import YouTubeSection from '../../components/YouTubeSection';
+import Navbar from '../components/Navbar';
+import YouTubeSection from '../components/YouTubeSection';
 import { useAppStore } from '@/store/useAppStore';
 
 function App() {
